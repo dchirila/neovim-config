@@ -5,7 +5,7 @@ It's a new start
 ## HowTo
 
 ```
-git clone https://github.com/bigeagle/neovim-config.git
+git clone git@github.com:dchirila/neovim-config.git
 ln -s path/to/neovim-config ~/.config/nvim
 curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
